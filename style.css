@@ -1,0 +1,27 @@
+/* h1{
+    background-color: blueviolet;
+}
+p{
+    background-color: blueviolet;
+} */
+#contain h1,
+#contain p
+{
+    background-color: skyblue;
+    width: auto;
+    box-sizing: 160%;
+    border-bottom: 0cqmax;
+}
+#second h1,
+#second p{
+    background-color: lightslategray;
+    height: fit-content;
+   
+}
+#navbar{
+    display: inline;
+}
+button{
+    border-color: blue;
+    border-radius: 2px;
+}
